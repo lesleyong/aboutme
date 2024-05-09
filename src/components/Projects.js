@@ -13,10 +13,10 @@ export default function Projects() {
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
                         Welcome to my projects showcase!
-                        <br/>
+                        <br />
                         Below are some noteworthy projects I've had the pleasure of building
                     </p>
-                 </div>
+                </div>
                 <div className="flex flex-wrap -m-4">
                     {/* {
                         projects.map((project) => (

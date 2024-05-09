@@ -3,7 +3,7 @@ import { PhoneIcon } from "@heroicons/react/24/solid";
 
 export default function Contact() {
     return (
-        <section>
+        <section id="contact">
             <div className="container py-10 mx-auto">
                 <div className="text-center">
                     <PhoneIcon className="w-10 inline-block mb-4" />
